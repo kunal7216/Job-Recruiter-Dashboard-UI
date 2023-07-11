@@ -1,3 +1,4 @@
+
 var chart    = document.getElementById('chart').getContext('2d'),
     gradient = chart.createLinearGradient(0, 0, 0, 450);
 
